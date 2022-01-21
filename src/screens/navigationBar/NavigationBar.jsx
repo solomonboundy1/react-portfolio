@@ -14,7 +14,12 @@ function createLinks() {
 const NavigationBar = () => {
   return (
     <div id="home">
-      <Navbar expand="md" className="navigation__container">
+      <Navbar
+        expand="md"
+        className="navigation__container"
+        style={{ zIndex: "2", position: "fixed", top: "0", width: "100%" }}
+        collapseOnSelect
+      >
         <Navbar.Brand style={{ marginLeft: "1rem" }} href="#home">
           Solomon Boundy
         </Navbar.Brand>
