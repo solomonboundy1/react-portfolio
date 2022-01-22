@@ -34,7 +34,7 @@ const Portfolio = () => {
           id="portfolio__modal__link"
           href={data.link}
           target="_blank"
-          rel="norefferer"
+          rel="noreferrer"
         >
           View Code
         </a>
