@@ -4,7 +4,7 @@ import "./header.css";
 const Header = () => {
   return (
     <div className="main-info">
-      <h1>What am I?</h1>
+      <h1>Who am I?</h1>
       <Typed
         strings={[
           "",

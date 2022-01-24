@@ -1,4 +1,4 @@
-import "./contactMe.css";
+import "./footer.css";
 import { navigationLinks } from "../../helpers/navigationLinks";
 
 function createLinks() {
@@ -10,7 +10,7 @@ function createLinks() {
 }
 const ContactMe = () => {
   return (
-    <div className="contactMe__container" id="contact">
+    <div className="contactMe__container">
       <div className="contactMe__data__links">
         <div>
           <p>London, UK</p>

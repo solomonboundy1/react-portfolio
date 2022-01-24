@@ -74,13 +74,13 @@ const Portfolio = () => {
     <div className="portfolio__main__container" id="portfolio">
       <h1>PORTFOLIO</h1>
       <p>
-        My GitHub Page:{" "}
         <a
+          id="gitlink"
           href="https://github.com/solomonboundy1"
           target="_blank"
           rel="noreferrer"
         >
-          https://github.com/solomonboundy1
+          Click Here To View My GitHub Page
         </a>
       </p>
       <Container fluid="lg" style={{ padding: "2rem 0" }}>
