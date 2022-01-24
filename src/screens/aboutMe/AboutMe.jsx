@@ -20,9 +20,7 @@ const AboutMe = () => {
           for jobs within the tech industry as I had developed a new found
           passion. As a disciplined pianist for over 20 years, I have become
           heavily focused on my craft and this has affected other areas of my
-          life in the same way, such as coding. I have no formal background in
-          tech but have remained focused and self driven for the past two years
-          with coding being just as a hobby in my free time.
+          life in the same way, such as coding.
         </p>
       </div>
     </div>

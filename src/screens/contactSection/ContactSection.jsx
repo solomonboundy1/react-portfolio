@@ -28,7 +28,9 @@ const ContactSection = () => {
   return (
     <div id="contact">
       <div className="container">
-        <h1 id="title">CONTACT ME</h1>
+        <h1 id="title">
+          <br /> CONTACT ME
+        </h1>
         <form ref={form} onSubmit={sendEmail}>
           <div className="mb-3">
             <label for="nameInput" className="form-label">
