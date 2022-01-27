@@ -63,7 +63,8 @@ const Portfolio = () => {
             setModalShow(true);
           }}
           src={e.image}
-        />
+        />{" "}
+        <h6>click image for more info</h6>
         <div className="portfolio__click__info">&#x1F50E;&#xFE0E;</div>
         {createModal(tempData)}
       </Card>

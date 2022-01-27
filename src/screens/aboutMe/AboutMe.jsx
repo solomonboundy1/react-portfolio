@@ -10,17 +10,18 @@ const AboutMe = () => {
       <div className="about__text">
         <h1>ABOUT ME</h1>
         <p>
-          My IT journey started as a mild interest at the beginning of 2020 when
-          I decided to look further into the code behind software, and plugins
-          that I regularly use as a music producer. This opened up an unfamiliar
-          and exciting world to me. During my free time, I started completing
-          online short courses on Udemy and Coursera surrounding both front-end
-          and back-end technologies and languages such as JavaScript, Python,
-          CSS, HTML, and PostgreSQL. This kick-started my interest into applying
-          for jobs within the tech industry as I had developed a new found
-          passion. As a disciplined pianist for over 20 years, I have become
-          heavily focused on my craft and this has affected other areas of my
-          life in the same way, such as coding.
+          In early 2020, during the first lockdown my IT journey began. Although
+          I have always been interested in technology as I have used a lot of
+          different software for producing music, I decided to look deeper into
+          how the software that I used functions. Looking at the code behind
+          these softwares sent me down the rabbit hole of tech. I signed up for
+          various Udemy and Coursera courses utilising front and back end
+          languages such as JavaScript, Python, PostgreSQL, HTML and CSS to name
+          a few. The more I attained knowledge in the field, the more my passion
+          grew for technology until the point I decided that I could actually
+          take this on as a serious profession. I then searched for jobs in the
+          field and came across QA. They accepted my application and trained me
+          up to become a software developer.
         </p>
       </div>
     </div>
